@@ -75,9 +75,9 @@ I build full-stack applications, AI-powered workflows, and data-driven tools wit
 | Project | Description | Stack | Links |
 | --- | --- | --- | --- |
 | notes | Full-stack notes workspace with auth, folders, rich text editing, and productivity-focused writing flows. | TypeScript · CSS · JavaScript | [Live](https://notes-seven-snowy.vercel.app) · [Code](https://github.com/whos-ryan/notes) |
-| CV_Site | Portfolio/CV website with project showcases, about/contact pages, and polished responsive UI sections. | TypeScript · CSS · HTML · JavaScript | [Live](https://cv-site-ecru.vercel.app) · [Code](https://github.com/whos-ryan/CV_Site) |
+| CV_Site | Portfolio/CV website with project showcases, about/contact pages, and polished responsive UI sections. | TypeScript · CSS · HTML · JavaScript | [Live](https:rhyze.co.uk) · [Code](https://github.com/whos-ryan/CV_Site) |
 | RecipeWeb | Recipe manager web app for creating and browsing meals with persisted JSON data and Blazor server rendering. | C# · HTML · CSS · Dockerfile | [Live](https://recipeweb-production.up.railway.app) · [Code](https://github.com/whos-ryan/RecipeWeb) |
-| Marcus Aurelius AI (Shared) | Group-built historical AI chatbot simulating Marcus Aurelius using hybrid NLP, semantic search, and LLM responses. | JavaScript · Shell · CSS · HTML | [Live](https://marcusaurelius-server.vercel.app) · [Code](https://github.com/xmrenigmax/SEAssignment) |
+| Marcus Aurelius AI (Shared) | Group-built historical AI chatbot simulating Marcus Aurelius using hybrid NLP, semantic search, and LLM responses. | JavaScript · Shell · CSS · HTML | [Live](https://marcusaurelius-client.vercel.app)) · [Code](https://github.com/xmrenigmax/SEAssignment) |
 
 ---
 
