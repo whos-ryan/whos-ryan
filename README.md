@@ -57,9 +57,14 @@ I build full-stack applications, AI-powered workflows, and data-driven tools wit
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud & Infrastructure
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -67,6 +72,7 @@ I build full-stack applications, AI-powered workflows, and data-driven tools wit
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ---
 
@@ -76,8 +82,8 @@ I build full-stack applications, AI-powered workflows, and data-driven tools wit
 | --- | --- | --- | --- |
 | notes | Full-stack notes workspace with auth, folders, rich text editing, and productivity-focused writing flows. | TypeScript · CSS · JavaScript | [Live](https://notes-seven-snowy.vercel.app) · [Code](https://github.com/whos-ryan/notes) |
 | CV_Site | Portfolio/CV website with project showcases, about/contact pages, and polished responsive UI sections. | TypeScript · CSS · HTML · JavaScript | [Live](https://cv-site-ecru.vercel.app) · [Code](https://github.com/whos-ryan/CV_Site) |
-| RecipeWeb | Recipe manager web app for creating and browsing meals with persisted JSON data and Blazor server rendering. | C# · HTML · CSS · Dockerfile | [Live](https://recipeweb-production.up.railway.app) · [Code](https://github.com/whos-ryan/RecipeWeb) | | Marcus Aurelius AI (Shared) | Group-built historical AI chatbot simulating Marcus Aurelius using hybrid NLP, semantic search, and LLM responses. | JavaScript · Shell · CSS · HTML | [Live](https://marcusaurelius-server.vercel.app) · [Code](https://github.com/xmrenigmax/SEAssignment) |
-
+| RecipeWeb | Recipe manager web app for creating and browsing meals with persisted JSON data and Blazor server rendering. | C# · HTML · CSS · Dockerfile | [Live](https://recipeweb-production.up.railway.app) · [Code](https://github.com/whos-ryan/RecipeWeb) |
+| Marcus Aurelius AI (Shared) | Group-built historical AI chatbot simulating Marcus Aurelius using hybrid NLP, semantic search, and LLM responses. | JavaScript · Shell · CSS · HTML | [Live](https://marcusaurelius-server.vercel.app) · [Code](https://github.com/xmrenigmax/SEAssignment) |
 
 ---
 
