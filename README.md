@@ -12,7 +12,7 @@
   <a href="https://rhyze.co.uk">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ryan-kelly-841201283/)">
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ryan-kelly-841201283/)](https://www.linkedin.com/in/ryan-kelly-841201283/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ryan.kelly4553@gmail.com">
